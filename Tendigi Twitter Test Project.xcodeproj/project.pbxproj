@@ -1,0 +1,400 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		59FE69BB1AE864340008B302 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FE69BA1AE864340008B302 /* main.m */; };
+		59FE69BE1AE864340008B302 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FE69BD1AE864340008B302 /* AppDelegate.m */; };
+		59FE69C11AE864340008B302 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FE69C01AE864340008B302 /* ViewController.m */; };
+		59FE69C61AE864340008B302 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59FE69C51AE864340008B302 /* Images.xcassets */; };
+		59FE69D51AE864340008B302 /* Tendigi_Twitter_Test_ProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 59FE69D41AE864340008B302 /* Tendigi_Twitter_Test_ProjectTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		59FE69CF1AE864340008B302 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 59FE69AD1AE864340008B302 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 59FE69B41AE864340008B302;
+			remoteInfo = "Tendigi Twitter Test Project";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		59FE69B51AE864340008B302 /* Tendigi Twitter Test Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tendigi Twitter Test Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59FE69B91AE864340008B302 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59FE69BA1AE864340008B302 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		59FE69BC1AE864340008B302 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		59FE69BD1AE864340008B302 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		59FE69BF1AE864340008B302 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		59FE69C01AE864340008B302 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		59FE69C51AE864340008B302 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		59FE69CE1AE864340008B302 /* Tendigi Twitter Test ProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tendigi Twitter Test ProjectTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		59FE69D31AE864340008B302 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59FE69D41AE864340008B302 /* Tendigi_Twitter_Test_ProjectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tendigi_Twitter_Test_ProjectTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		59FE69B21AE864340008B302 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		59FE69CB1AE864340008B302 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		59FE69AC1AE864340008B302 = {
+			isa = PBXGroup;
+			children = (
+				59FE69B71AE864340008B302 /* Tendigi Twitter Test Project */,
+				59FE69D11AE864340008B302 /* Tendigi Twitter Test ProjectTests */,
+				59FE69B61AE864340008B302 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		59FE69B61AE864340008B302 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				59FE69B51AE864340008B302 /* Tendigi Twitter Test Project.app */,
+				59FE69CE1AE864340008B302 /* Tendigi Twitter Test ProjectTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		59FE69B71AE864340008B302 /* Tendigi Twitter Test Project */ = {
+			isa = PBXGroup;
+			children = (
+				59FE69BC1AE864340008B302 /* AppDelegate.h */,
+				59FE69BD1AE864340008B302 /* AppDelegate.m */,
+				59FE69BF1AE864340008B302 /* ViewController.h */,
+				59FE69C01AE864340008B302 /* ViewController.m */,
+				59FE69C51AE864340008B302 /* Images.xcassets */,
+				59FE69B81AE864340008B302 /* Supporting Files */,
+			);
+			path = "Tendigi Twitter Test Project";
+			sourceTree = "<group>";
+		};
+		59FE69B81AE864340008B302 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				59FE69B91AE864340008B302 /* Info.plist */,
+				59FE69BA1AE864340008B302 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		59FE69D11AE864340008B302 /* Tendigi Twitter Test ProjectTests */ = {
+			isa = PBXGroup;
+			children = (
+				59FE69D41AE864340008B302 /* Tendigi_Twitter_Test_ProjectTests.m */,
+				59FE69D21AE864340008B302 /* Supporting Files */,
+			);
+			path = "Tendigi Twitter Test ProjectTests";
+			sourceTree = "<group>";
+		};
+		59FE69D21AE864340008B302 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				59FE69D31AE864340008B302 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		59FE69B41AE864340008B302 /* Tendigi Twitter Test Project */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 59FE69D81AE864340008B302 /* Build configuration list for PBXNativeTarget "Tendigi Twitter Test Project" */;
+			buildPhases = (
+				59FE69B11AE864340008B302 /* Sources */,
+				59FE69B21AE864340008B302 /* Frameworks */,
+				59FE69B31AE864340008B302 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Tendigi Twitter Test Project";
+			productName = "Tendigi Twitter Test Project";
+			productReference = 59FE69B51AE864340008B302 /* Tendigi Twitter Test Project.app */;
+			productType = "com.apple.product-type.application";
+		};
+		59FE69CD1AE864340008B302 /* Tendigi Twitter Test ProjectTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 59FE69DB1AE864340008B302 /* Build configuration list for PBXNativeTarget "Tendigi Twitter Test ProjectTests" */;
+			buildPhases = (
+				59FE69CA1AE864340008B302 /* Sources */,
+				59FE69CB1AE864340008B302 /* Frameworks */,
+				59FE69CC1AE864340008B302 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				59FE69D01AE864340008B302 /* PBXTargetDependency */,
+			);
+			name = "Tendigi Twitter Test ProjectTests";
+			productName = "Tendigi Twitter Test ProjectTests";
+			productReference = 59FE69CE1AE864340008B302 /* Tendigi Twitter Test ProjectTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		59FE69AD1AE864340008B302 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = Tendigi;
+				TargetAttributes = {
+					59FE69B41AE864340008B302 = {
+						CreatedOnToolsVersion = 6.1.1;
+					};
+					59FE69CD1AE864340008B302 = {
+						CreatedOnToolsVersion = 6.1.1;
+						TestTargetID = 59FE69B41AE864340008B302;
+					};
+				};
+			};
+			buildConfigurationList = 59FE69B01AE864340008B302 /* Build configuration list for PBXProject "Tendigi Twitter Test Project" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 59FE69AC1AE864340008B302;
+			productRefGroup = 59FE69B61AE864340008B302 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				59FE69B41AE864340008B302 /* Tendigi Twitter Test Project */,
+				59FE69CD1AE864340008B302 /* Tendigi Twitter Test ProjectTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		59FE69B31AE864340008B302 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				59FE69C61AE864340008B302 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		59FE69CC1AE864340008B302 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		59FE69B11AE864340008B302 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				59FE69C11AE864340008B302 /* ViewController.m in Sources */,
+				59FE69BE1AE864340008B302 /* AppDelegate.m in Sources */,
+				59FE69BB1AE864340008B302 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		59FE69CA1AE864340008B302 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				59FE69D51AE864340008B302 /* Tendigi_Twitter_Test_ProjectTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		59FE69D01AE864340008B302 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 59FE69B41AE864340008B302 /* Tendigi Twitter Test Project */;
+			targetProxy = 59FE69CF1AE864340008B302 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		59FE69D61AE864340008B302 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		59FE69D71AE864340008B302 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		59FE69D91AE864340008B302 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Tendigi Twitter Test Project/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		59FE69DA1AE864340008B302 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Tendigi Twitter Test Project/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		59FE69DC1AE864340008B302 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Tendigi Twitter Test ProjectTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tendigi Twitter Test Project.app/Tendigi Twitter Test Project";
+			};
+			name = Debug;
+		};
+		59FE69DD1AE864340008B302 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Tendigi Twitter Test ProjectTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tendigi Twitter Test Project.app/Tendigi Twitter Test Project";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		59FE69B01AE864340008B302 /* Build configuration list for PBXProject "Tendigi Twitter Test Project" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				59FE69D61AE864340008B302 /* Debug */,
+				59FE69D71AE864340008B302 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		59FE69D81AE864340008B302 /* Build configuration list for PBXNativeTarget "Tendigi Twitter Test Project" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				59FE69D91AE864340008B302 /* Debug */,
+				59FE69DA1AE864340008B302 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		59FE69DB1AE864340008B302 /* Build configuration list for PBXNativeTarget "Tendigi Twitter Test ProjectTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				59FE69DC1AE864340008B302 /* Debug */,
+				59FE69DD1AE864340008B302 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 59FE69AD1AE864340008B302 /* Project object */;
+}
