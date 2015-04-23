@@ -10,22 +10,26 @@
 	<string>Tendigi Twitter Test Project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>7C68A8DA8F575295D16BBA7A513214B01BAAD8B2</key>
+		<string>https://github.com/lpollard11/TendigiTwitter.git</string>
 		<key>D99E603C6DD2A9B157B7BFE561C25B4288B79B13</key>
 		<string>https://bitbucket.org/qude/qude-ios.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Tendigi Twitter App/Tendigi Twitter Test Project/Tendigi Twitter Test Project.xcodeproj</string>
+	<string>Tendigi Twitter Test Project.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>7C68A8DA8F575295D16BBA7A513214B01BAAD8B2</key>
+		<string>../..</string>
 		<key>D99E603C6DD2A9B157B7BFE561C25B4288B79B13</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/qude/qude-ios.git</string>
+	<string>https://github.com/lpollard11/TendigiTwitter.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D99E603C6DD2A9B157B7BFE561C25B4288B79B13</string>
+	<string>7C68A8DA8F575295D16BBA7A513214B01BAAD8B2</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>D99E603C6DD2A9B157B7BFE561C25B4288B79B13</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Repos</string>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7C68A8DA8F575295D16BBA7A513214B01BAAD8B2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Tendigi%20Twitter%20Test%20Project</string>
 		</dict>
 	</array>
 </dict>

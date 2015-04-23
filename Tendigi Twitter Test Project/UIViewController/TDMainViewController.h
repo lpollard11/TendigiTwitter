@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TDMainViewController.h
 //  Tendigi Twitter Test Project
 //
 //  Created by Lee Pollard on 4/22/15.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
 
+
+
+
+@interface TDMainViewController : UIViewController
 
 @end
-
