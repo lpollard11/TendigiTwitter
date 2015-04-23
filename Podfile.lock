@@ -1,0 +1,12 @@
+PODS:
+  - Fabric (1.2.3):
+    - Fabric/Core (= 1.2.3)
+  - Fabric/Core (1.2.3)
+
+DEPENDENCIES:
+  - Fabric (= 1.2.3)
+
+SPEC CHECKSUMS:
+  Fabric: 8a5b89c2131962830d92bbc88d482e80665846b2
+
+COCOAPODS: 0.36.4

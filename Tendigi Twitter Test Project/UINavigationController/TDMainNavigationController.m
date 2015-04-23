@@ -7,7 +7,7 @@
 //
 
 #import "TDMainNavigationController.h"
-#import "TDMainViewController.h"
+#import "TDMainTableTableViewController.h"
 
 
 
@@ -26,7 +26,7 @@
 {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-	[self setViewControllers:@[[TDMainViewController new]]];
+	[self setViewControllers:@[[TDMainTableTableViewController new]]];
 }
 
 - (void)didReceiveMemoryWarning {
